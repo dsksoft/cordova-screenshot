@@ -6,5 +6,5 @@ The Screenshot plugin allows your application to take screenshots of the current
 install it via cordova cli
 
 ```
-cordova plugin add https://github.com/gitawego/cordova-screenshot.git
+cordova plugin add https://github.com/dsksoft/cordova-screenshot.git
 ```
